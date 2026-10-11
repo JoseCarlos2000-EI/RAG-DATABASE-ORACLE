@@ -5,9 +5,9 @@ import json
 import array
 
 
-usr = 'sys'
-pwd = 'admin'
-cs = 'localhost:1521/freepdb1'
+usr = '<USER>'
+pwd = '<PASSWORD>'
+cs = '<CS>'
 mode = orcl.SYSDBA
 
 
